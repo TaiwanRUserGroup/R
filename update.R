@@ -1,3 +1,5 @@
+stopifnot(Sys.info()["sysname"] == "Darwin")
+
 library(miniCRAN)
 options(repos = "http://cran.csie.ntu.edu.tw")
 pkgs <- c("swirl", "dplyr", "ggplot2")
