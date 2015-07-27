@@ -1,3 +1,9 @@
 [submodule "swirl"]
 	path = swirl
 	url = https://github.com/wush978/swirl.git
+[submodule "gh-pages"]
+	path = gh-pages
+	url = git@github.com:TaiwanRUserGroup/R.git
+[submodule "DSC2015Tutorial"]
+	path = DSC2015Tutorial
+	url = https://github.com/taiwanrusergroup/DSC2015Tutorial
