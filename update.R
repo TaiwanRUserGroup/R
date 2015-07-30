@@ -29,7 +29,7 @@ for(type in c("source", "win.binary", "mac.binary", "mac.binary.mavericks")) {
   }
 }
 
-DSC2015R.version <- "0.1.2"
+DSC2015R.version <- "0.2.1"
 system("R CMD build DSC2015Tutorial/DSC2015R")
 system(sprintf("R CMD INSTALL -l /tmp --build DSC2015R_%s.tar.gz", DSC2015R.version))
 system(sprintf("7z a DSC2015R_%s.zip /tmp/DSC2015R", DSC2015R.version))
