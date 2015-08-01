@@ -128,7 +128,7 @@ License: MIT + file LICENSE
 Archs: i386, x64
 
 Package: DSC2015R
-Version: 0.2.1
+Version: 0.2.2
 Depends: dplyr, ggplot2, swirl
 License: GPL (>= 3)
 

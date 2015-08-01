@@ -154,10 +154,10 @@ MD5sum: 793efc5395ba1081d76c786a072aa795
 NeedsCompilation: yes
 
 Package: DSC2015R
-Version: 0.2.1
+Version: 0.2.2
 Depends: dplyr, ggplot2, swirl
 License: GPL (>= 3)
-MD5sum: b6d8837935333f499c44a59c4ccba4cf
+MD5sum: 58b7a4833c3be07392ee4c6d0e7439f4
 NeedsCompilation: no
 
 Package: evaluate

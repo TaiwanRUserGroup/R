@@ -135,10 +135,10 @@ Archs: dplyr.so.dSYM
 MD5sum: fcae86e5823dc3f5748f874bcff94ad7
 
 Package: DSC2015R
-Version: 0.2.1
+Version: 0.2.2
 Depends: dplyr, ggplot2, swirl
 License: GPL (>= 3)
-MD5sum: 7ece3d99f52cef2af65d9238e6ca3f9d
+MD5sum: a460806a4292448ce6f1373207d988bb
 
 Package: evaluate
 Version: 0.7
