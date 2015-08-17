@@ -1,5 +1,7 @@
-options(repos = "http://taiwanrusergroup.github.io/R")
 local({
+  repo.host <- getOption("DSC2015-repo", "taiwanrusergroup.github.io")
+  cat(sprintf("Set repository to %s according to DSC2015-repo\n", repo.host))
+  options(repos = sprintf("http://%s/R", repo.host))
   install.packages('DSC2015R')
   pkgs.remote <- available.packages()
   pkgs.local <- installed.packages()
