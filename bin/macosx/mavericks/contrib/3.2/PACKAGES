@@ -803,6 +803,14 @@ Suggests: dplyr, gdata, plyr
 License: GPL-3
 MD5sum: 5b2b8b350ed3756b2f5391b70a752cb1
 
+Package: XML
+Version: 3.98-1.3
+Depends: R (>= 2.13.0), methods, utils
+Suggests: bitops, RCurl
+License: BSD_2_clause + file LICENSE
+Archs: XML.so.dSYM
+MD5sum: 79292bc001254bf7b89e04fb951dd1e1
+
 Package: xtable
 Version: 1.7-4
 Depends: R (>= 2.10.0)

@@ -837,6 +837,15 @@ Suggests: markdown
 License: GPL-3
 MD5sum: 1c06ea5139353f5a0541634cdc9f9de6
 
+Package: XML
+Version: 3.98-1.1
+Depends: R (>= 1.2.0), methods, utils
+Imports: methods
+Suggests: bitops, RCurl
+License: BSD
+Archs: XML.so.dSYM
+MD5sum: cad07f4889a584e11e4da5293a57d9f3
+
 Package: xml2
 Version: 0.1.0
 Depends: R (>= 3.1.0)
