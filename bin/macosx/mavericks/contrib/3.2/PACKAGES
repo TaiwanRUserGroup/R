@@ -151,11 +151,11 @@ License: MIT + file LICENSE
 MD5sum: 3ad5e8c9fb50fbc5cef6c5323ced3de1
 
 Package: DSC2015R
-Version: 0.3.3
+Version: 0.3.3.1
 Depends: dplyr, ggplot2, swirl
 Imports: DataTaipei
 License: GPL (>= 3)
-MD5sum: 08ee9e502be41a53f7fcd7f927d98f19
+MD5sum: 92216bd07f7aa1f225dd034e802e7f2c
 
 Package: evaluate
 Version: 0.7
