@@ -131,7 +131,7 @@ License: GPL-2
 Archs: i386, x64
 
 Package: DSC2015R
-Version: 0.3.3.2
+Version: 0.3.4
 Depends: dplyr, ggplot2, swirl
 Imports: DataTaipei
 License: GPL (>= 3)
