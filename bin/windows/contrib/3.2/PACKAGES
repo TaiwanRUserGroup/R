@@ -130,6 +130,18 @@ Depends: R (>= 2.4.1)
 License: GPL-2
 Archs: i386, x64
 
+Package: dplyr
+Version: 0.4.1
+Depends: R (>= 3.0.2)
+Imports: assertthat, utils, R6, Rcpp, magrittr, lazyeval (>= 0.1.10),
+        DBI (>= 0.3)
+LinkingTo: Rcpp (>= 0.11.3), BH (>= 1.51.0-2)
+Suggests: RSQLite (>= 1.0.0), RMySQL, RPostgreSQL, data.table,
+        testthat, knitr, microbenchmark, ggplot2, mgcv, Lahman (>=
+        3.0-1), nycflights13, methods
+License: MIT + file LICENSE
+Archs: i386, x64
+
 Package: DSC2015R
 Version: 0.3.3.2
 Depends: dplyr, ggplot2, swirl
