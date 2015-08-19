@@ -172,11 +172,11 @@ MD5sum: 4106d568dee4d862b780eb76fab44b25
 NeedsCompilation: yes
 
 Package: DSC2015R
-Version: 0.3.4
+Version: 0.3.4.1
 Depends: dplyr, ggplot2, swirl
 Imports: DataTaipei
 License: GPL (>= 3)
-MD5sum: 9975d0bb40eca5f640f3b183d96d1dbd
+MD5sum: 68783a0e222ba86d485e9f16e0047a49
 NeedsCompilation: no
 
 Package: evaluate
