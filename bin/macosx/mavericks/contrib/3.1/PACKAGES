@@ -155,7 +155,7 @@ Version: 0.3.4.1
 Depends: dplyr, ggplot2, swirl
 Imports: DataTaipei
 License: GPL (>= 3)
-MD5sum: c491dc89d3437eeceada523658c5c64c
+MD5sum: 9c9ef84174ce9c6ee7715006f96834d8
 
 Package: evaluate
 Version: 0.7
