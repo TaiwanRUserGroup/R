@@ -143,7 +143,7 @@ License: MIT + file LICENSE
 Archs: i386, x64
 
 Package: DSC2015R
-Version: 1.0
+Version: 1.1
 Depends: dplyr, ggplot2, swirl
 Imports: DataTaipei
 License: GPL (>= 3)
